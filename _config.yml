@@ -1,5 +1,8 @@
-title: Shaw Talebi
+title: Your Name
 logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
+description: Professional CV and portfolio site.
+show_downloads: true
+baseurl: ""
+url: "https://mufauzan.github.io"
+markdown: kramdown
 theme: jekyll-theme-minimal
