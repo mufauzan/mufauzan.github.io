@@ -4,7 +4,7 @@ title: Muhammad Fauzan
 permalink: /
 ---
 
-# Your Name
+# Muhammad Fauzan
 
 **Full-stack developer · Data Engineer · Problem solver**
 
