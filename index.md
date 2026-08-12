@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: Muhammad Fauzan
 permalink: /
 ---
 
 # Your Name
 
-**Full-stack developer · Designer · Problem solver**
+**Full-stack developer · Data Engineer · Problem solver**
 
 **Contact**
 
-- Email: [you@example.com](mailto:you@example.com)
+- Email: [mufauzan.work@gmail.com](mailto:mufauzan.work@gmail.com)
 - Website: https://mufauzan.github.io
 - GitHub: [mufauzan](https://github.com/mufauzan)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [mufauzan](https://linkedin.com/in/mufauzan)
 
 ---
 
 ## Summary
 
-Experienced professional with a strong track record in building modern web experiences, designing user-centric interfaces, and delivering high-impact software products. Comfortable leading projects from concept through launch, collaborating across teams, and working with both startups and established organizations.
+Computer Science graduate with a multidisciplinary background in IT, Data Engineering, Web Development, administration, and organizational coordination. Experienced in technical projects, data processing, documentation, communication, and cross-functional collaboration. Adaptable, analytical, and fast-learning, with a strong interest in solving problems and contributing across technical and business environments.
 
 ---
 
 ## Experience
 
-### Senior Software Engineer
-**Company Name** · Location
-*Date Range*
+### Software Engineer Intern
+**Puslitbang Tekmira** · Bandung
+*2020*
 
 - Built responsive web applications using modern JavaScript, CSS, and static site frameworks.
 - Led implementation of performance improvements, accessibility enhancements, and cross-browser compatibility.
