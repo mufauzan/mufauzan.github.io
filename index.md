@@ -27,40 +27,39 @@ Computer Science graduate with a multidisciplinary background in IT, Data Engine
 
 ### Software Engineer Intern
 **Puslitbang Tekmira** · Bandung
-*2020*
+**2020**
 
-- Built responsive web applications using modern JavaScript, CSS, and static site frameworks.
-- Led implementation of performance improvements, accessibility enhancements, and cross-browser compatibility.
-- Collaborated with product and design teams to translate requirements into clean user experiences.
-
-### Frontend Developer
-**Company Name** · Location
-*Date Range*
-
-- Delivered polished UI components and reusable design systems.
-- Integrated APIs, optimized page load times, and maintained high-quality documentation.
-- Mentored junior developers and supported agile delivery practices.
+- Contributed to the development of a full-stack reservation platform for auditorium and mess facilities at Puslitbang Tekmira.
+- Designed user interfaces and end-to-end reservation flows to create an intuitive booking experience.
+- Developed responsive booking features using HTML, JavaScript, and Bootstrap.
+- Built RESTful APIs with PHP/Laravel and integrated a MySQL database for structured and reliable data management.
+- Collaborated on delivering a centralized web platform that streamlined facility reservation and booking processes.
 
 ---
 
 ## Education
 
-**Degree, Major**
-University Name · Location
-*Date Range*
+**Bachelor, Computer Science**
+Universitas Pendidikan Indonesia · Bandung,Indonesia
+**2017 - 2024**
 
-- Relevant coursework: Web development, user-centered design, data structures.
+- Relevant coursework: Web development, user-centered design, data structures, artificial intelligence, machine learning, natural language processing, sentiment analysis, web crawling, data warehouse, ETL.
 
 ---
 
 ## Skills
 
-- JavaScript / TypeScript
-- HTML5 / CSS3 / Sass
-- React / Vue / Static site generators
+- Web Development
+- Python
+- SQL & MySQL
 - Git / GitHub / CI-CD
-- Responsive design / accessibility
-- UX design / prototyping
+- ETL & Data Pipelines
+- Data Warehousing
+- Machine Learning
+- Natural Language Processing (NLP)
+- Web Scraping / Web Crawling
+- RESTful API Development
+- UI/UX & User-Centered Design
 
 ---
 
