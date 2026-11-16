@@ -1,1 +1,1 @@
-lol, coming soon
+coming soon
